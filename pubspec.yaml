@@ -8,8 +8,6 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
   eosdart_ecc: 0.3.0
   eosdart: ^0.3.3
   pointycastle: ^1.0.1 
