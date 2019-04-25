@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  eosdart_ecc: ^0.2.2
+  eosdart_ecc: 0.3.0
   eosdart: ^0.3.3
   pointycastle: ^1.0.1 
   crypto: ^2.0.6
